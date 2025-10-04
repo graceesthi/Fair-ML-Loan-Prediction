@@ -210,14 +210,5 @@ python src/main.py --data data/project-data.csv --fairness-constraints True
 
 This project is developed for academic purposes. Please cite appropriately if used for research.
 
-## Collaboration
-
-This project was developed as part of a group effort with:
-- Manuela N
-- Daniela S  
-- Samir MS
-- Ibrahima T
-- Adam C
-
 ---
 *Building fair and inclusive AI systems*
