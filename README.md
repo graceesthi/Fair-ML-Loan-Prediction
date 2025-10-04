@@ -219,7 +219,5 @@ This project was developed as part of a group effort with:
 - Ibrahima T
 - Adam C
 
-## Contact
-
 ---
 *Building fair and inclusive AI systems*
