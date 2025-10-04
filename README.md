@@ -1,10 +1,5 @@
 # Fair Machine Learning: Loan Approval Prediction
 
-**Author:** Grâce Esther DONG  
-**Academic Program:** 4th Year Engineering - AI Specialization  
-**Institution:** Aivancity School for Technology, Business & Society  
-**Academic Year:** 2024-2025
-
 ## Project Overview
 
 This project develops a fair and ethical machine learning system for loan approval prediction, with comprehensive bias detection, fairness evaluation, and mitigation strategies. The system ensures equitable treatment across different demographic groups while maintaining predictive performance.
@@ -224,11 +219,7 @@ This project was developed as part of a group effort with:
 - Ibrahima T
 - Adam C
 
-**Lead Developer & Repository Maintainer:** Grâce Esther DONG
-
 ## Contact
-
-**Grâce Esther DONG**
 
 ---
 *Building fair and inclusive AI systems*
