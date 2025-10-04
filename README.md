@@ -2,14 +2,14 @@
 
 **Author:** Grâce Esther DONG  
 **Academic Program:** 4th Year Engineering - AI Specialization  
-**Institution:** [Your Institution Name]  
+**Institution:** Aivancity School for Technology, Business & Society  
 **Academic Year:** 2024-2025
 
-## 📋 Project Overview
+## Project Overview
 
 This project develops a fair and ethical machine learning system for loan approval prediction, with comprehensive bias detection, fairness evaluation, and mitigation strategies. The system ensures equitable treatment across different demographic groups while maintaining predictive performance.
 
-## 🎯 Objective
+## Objective
 
 Create a responsible AI system that:
 - Predicts loan approval decisions with high accuracy
@@ -17,7 +17,7 @@ Create a responsible AI system that:
 - Ensures fairness across demographic groups
 - Provides transparent decision-making processes
 
-## 📊 Dataset Description
+## Dataset Description
 
 ### Demographics
 - **Gender:** Female, Male
@@ -37,7 +37,7 @@ Create a responsible AI system that:
 ### Target Variable
 - **Loan Status:** Approved/Rejected
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.x**
 - **Pandas/NumPy** - Data manipulation and analysis
@@ -46,7 +46,7 @@ Create a responsible AI system that:
 - **Matplotlib/Seaborn** - Data visualization
 - **Aequitas** - Bias and fairness toolkit
 
-## 🏗️ Methodology
+## Methodology
 
 ### 1. Data Exploration & Preprocessing
 - Comprehensive exploratory data analysis
@@ -78,7 +78,7 @@ Create a responsible AI system that:
 - **Post-processing:** Output adjustment techniques
 - **Ensemble Methods:** Multiple model combination
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Fair-ML-Loan-Prediction/
@@ -107,7 +107,7 @@ Fair-ML-Loan-Prediction/
     └── visualization.py
 ```
 
-## 📈 Results & Performance
+## Results & Performance
 
 ### Model Performance
 - **Accuracy:** [Your accuracy]%
@@ -127,7 +127,7 @@ Fair-ML-Loan-Prediction/
 - **After Mitigation:** [Improved metrics]
 - **Performance Trade-off:** [Analysis]
 
-## 🔍 Key Findings
+## Key Findings
 
 ### Bias Detection Results
 - Identified significant disparities in loan approval rates
@@ -141,7 +141,7 @@ Fair-ML-Loan-Prediction/
 - Improved fairness across all protected attributes
 - Enhanced model transparency and interpretability
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Installation
 ```bash
@@ -169,7 +169,7 @@ print(fairness_metrics)
 python src/main.py --data data/project-data.csv --fairness-constraints True
 ```
 
-## 🔬 Research Contributions
+## Research Contributions
 
 ### Technical Innovation
 - Novel bias mitigation algorithm combination
@@ -183,7 +183,7 @@ python src/main.py --data data/project-data.csv --fairness-constraints True
 - Transparent decision-making system
 - Stakeholder-inclusive design approach
 
-## 📊 Impact Assessment
+## Impact Assessment
 
 ### Social Impact
 - Reduced discriminatory lending practices
@@ -197,25 +197,25 @@ python src/main.py --data data/project-data.csv --fairness-constraints True
 - Comprehensive evaluation metrics
 - Open-source fairness tools
 
-## 🏆 Academic Excellence
+## Academic Excellence
 
 - Deep understanding of algorithmic fairness
 - Practical application of ethical AI principles
 - Comprehensive bias analysis methodology
 - Innovative mitigation strategy development
 
-## 📚 References
+## References
 
 - Fairlearn: A toolkit for assessing and improving fairness in AI
 - Aequitas: Bias and Fairness Audit Toolkit
 - "Fairness and Machine Learning" by Barocas, Hardt, and Narayanan
 - IEEE Standards for Algorithmic Bias
 
-## 📝 License
+## License
 
 This project is developed for academic purposes. Please cite appropriately if used for research.
 
-## 🤝 Collaboration
+## Collaboration
 
 This project was developed as part of a group effort with:
 - Manuela N
@@ -226,12 +226,9 @@ This project was developed as part of a group effort with:
 
 **Lead Developer & Repository Maintainer:** Grâce Esther DONG
 
-## 📧 Contact
+## Contact
 
-**Grâce Esther DONG**  
-Email: [your.email@domain.com]  
-LinkedIn: [Your LinkedIn Profile]  
-GitHub: [Your GitHub Profile]
+**Grâce Esther DONG**
 
 ---
-*Building fair and inclusive AI systems* ⚖️🤖
+*Building fair and inclusive AI systems*
